@@ -1,1 +1,8 @@
-# a
+[https://github.com/maulvialf/game-hacking-tools](https://github.com/maulvialf/game-hacking-tools)
+[https://github.com/maulvialf/CTF-Writeups](https://github.com/maulvialf/CTF-Writeups)
+[https://github.com/maulvialf/CTF-Challs-Archive](https://github.com/maulvialf/CTF-Challs-Archive)
+[https://github.com/maulvialf/Random-Script](https://github.com/maulvialf/Random-Script)
+[https://github.com/maulvialf/windows-gdb-scripting](https://github.com/maulvialf/windows-gdb-scripting)
+[https://github.com/maulvialf/frida-cheatsheet](https://github.com/maulvialf/frida-cheatsheet)
+[https://github.com/maulvialf/Decompiler-Cheatsheet](https://github.com/maulvialf/Decompiler-Cheatsheet)
+[https://github.com/maulvialf/Angr-snippet](https://github.com/maulvialf/Angr-snippet)
